@@ -1,8 +1,6 @@
 # SCV DeFi 백서
----
 
 ## 개요
----
 
 ### 목표
 
@@ -13,8 +11,6 @@
 이는 현재 오픈소스로 제공되는 정적 분석 도구인 [Slither](https://github.com/crytic/slither)도 마찬가지이다. 탐지 속도와 그 정확도에서 뛰어난 모습을 보이는 정적 분석 도구이지만 우리가 정립한 공격 벡터들에 대해 탐지하지 못하는 모습을 종종 보였고 이에 우리는 우리가 발견한 패턴을 모듈화하여 [Slither](https://github.com/crytic/slither)에 기여하고자 한다.
 
 ## 산출물
----
-
 
 ### SCV 공격 라이브러리
 
@@ -29,15 +25,12 @@
 [SCV 오딧 체크리스트](https://github.com/scv-bob11/scv-audit-check-list)
 
 ## Slither 모듈
----
 
 우리는 10개의 패턴을 코드로 구현 하는 데에 성공을 하였으며 이중 O개의 모듈을 Slither에 기여했다. 모듈 리스트는 아래 링크에 정리 되어 있다.
 
 [Slither 모듈](https://github.com/scv-bob11/slither-new-detector)
 
 ## 결과
-
----
 
 ### 요약
 
@@ -48,8 +41,6 @@
 우리는 공격 라이브러리, 오딧 체크리스트, 새로운 모듈들을 제시함으로써 DeFi 개발자들이 조금 더 안전하게 개발할 수 있는 데에 기여를 하였다.
 
 ### 별첨
-
----
 
 **SCV bot**
 
