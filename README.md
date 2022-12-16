@@ -1,1 +1,0 @@
-# scv-white-paper
