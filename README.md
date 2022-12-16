@@ -26,7 +26,7 @@
 
 ## Slither 모듈
 
-우리는 10개의 패턴을 코드로 구현 하는 데에 성공을 하였으며 이중 O개의 모듈을 Slither에 기여했다. 모듈 리스트는 아래 링크에 정리 되어 있다.
+우리는 10개의 패턴을 코드로 구현 하는 데에 성공을 하였으며 이중 1개의 모듈을 Slither에 기여했다. 모듈 리스트는 아래 링크에 정리 되어 있다.
 
 [Slither 모듈](https://github.com/scv-bob11/slither-new-detector)
 
